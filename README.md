@@ -1,5 +1,7 @@
 # Workout Forge
 
+<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_1.png" width="200"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_2.png" width="200"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_3.png" width="200"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_4.png" width="200">
+
 ## Apple App Store ID
 
 * [6476525255](https://apps.apple.com/us/app/workout-forge/id6476525255)
