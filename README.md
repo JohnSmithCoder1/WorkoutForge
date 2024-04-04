@@ -1,6 +1,6 @@
 # Workout Forge
 
-<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_1.png" width="180"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_2.png" width="180"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_3.png" width="180"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_4.png" width="180"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_5.png" width="180">
+<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_1.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_2.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_3.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_4.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_5.png" width="160">
 
 Welcome! We're here to help you forge your fitness path with workouts that adapt to you. Select your equipment and preferences, and let Workout Forge do the rest.
 
