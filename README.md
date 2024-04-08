@@ -16,7 +16,3 @@
 * iPhone (requires iOS 17.0 or later)
 * iPad (requires iPadOS 17.0 or later)
 * Mac (requires macOS 14.0 or later and a Mac with Apple M1 chip or later)
-
-## Author
-
-* John Smith
