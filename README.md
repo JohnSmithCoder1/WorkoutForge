@@ -1,6 +1,6 @@
 # Workout Forge
 
-<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_1.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_2.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_3.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_4.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_5.png" width="160"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_6.png" width="160">
+<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_1.png" width="150"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_2.png" width="150"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_3.png" width="150"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_4.png" width="150"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_5.png" width="150"> <img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/screenshot_6.png" width="150">
 
 
 ## Apple App Store ID
