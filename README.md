@@ -30,11 +30,6 @@ Download Workout Forge today and build a stronger routine—one effective workou
 
 * [6476525255](https://apps.apple.com/us/app/workout-forge/id6476525255)
 
-## Built With
-
-* XCode 15.1
-* Swift 5.9.2
-
 ## Built For
 
 * iPhone (requires iOS 17.0 or later)
